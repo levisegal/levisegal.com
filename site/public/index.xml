@@ -5,8 +5,6 @@
     <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/index.xml</link>
     <description>Recent content on Levi Segal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Mon, 10 Apr 2017 22:06:41 -0600</lastBuildDate>
     <atom:link href="http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +12,9 @@
       <title>About Me</title>
       <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/page/about/</link>
       <pubDate>Mon, 10 Apr 2017 22:06:41 -0600</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      
       <guid>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/page/about/</guid>
-      <description>&lt;p&gt;Hi there. I&amp;rsquo;m Levi. I&amp;rsquo;m a Full Stack developer from Los Angeles, California, loving my job at &lt;a href=&#34;https://www.clicktripz.com&#34;&gt;Clicktripz&lt;/a&gt;. I blog about Web development and Machine Learning. I love JavaScript and Python. I think about DevOps, Software Development Management, Automation, and scoring buckets 🏀.&lt;/p&gt;
+      <description>&lt;p&gt;Hi there. I&amp;rsquo;m Levi. I&amp;rsquo;m a Full Stack developer from Los Angeles, California, loving my job at &lt;a href=&#34;https://www.clicktripz.com&#34;&gt;Clicktripz&lt;/a&gt;. I blog about Web development and Machine Learning. I love JavaScript and Python. I&amp;rsquo;m constantly coming up with new ideas about how to use technology, integrating those ideas into software development teams, and automation. I&amp;rsquo;m looking forward to sharing them and getting feedback from the interwebz.&lt;/p&gt;
 </description>
     </item>
     
@@ -24,7 +22,7 @@
       <title>second post</title>
       <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/second_post/</link>
       <pubDate>Mon, 10 Apr 2017 18:43:02 -0600</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      
       <guid>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/second_post/</guid>
       <description>&lt;p&gt;Install Chokidar&lt;/p&gt;
 
@@ -49,7 +47,7 @@
       <title>First thing you should do on AWS</title>
       <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/test/</link>
       <pubDate>Sun, 09 Apr 2017 21:09:20 -0600</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      
       <guid>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/test/</guid>
       <description>
 
