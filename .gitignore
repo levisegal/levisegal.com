@@ -1,0 +1,11 @@
+# Javascript files
+coverage
+node_modules
+npm-debug.log
+
+# Compiled terraform files
+*.tfstate
+*.tfstate.backup
+
+# Terraform module directory
+.terraform/

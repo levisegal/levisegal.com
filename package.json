@@ -1,0 +1,13 @@
+{
+  "name": "levisegal.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local-server": "cd /Users/lawrencesegal/dev/levisegal.com/site && hugo server --buildDrafts",
+    "build-site": "cd /Users/lawrencesegal/dev/levisegal.com/site && hugo --buildDrafts",
+    "upload-site": "cd /Users/lawrencesegal/dev/levisegal.com && ./scripts/deploy_site.sh"
+  },
+  "author": "Levi Segal"
+}

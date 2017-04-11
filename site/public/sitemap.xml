@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/page/about/</loc>
+    <lastmod>2017-04-10T22:06:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/second_post/</loc>
+    <lastmod>2017-04-10T18:43:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/test/</loc>
+    <lastmod>2017-04-09T21:09:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/tags/about/</loc>
+    <lastmod>2017-04-10T22:06:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/</loc>
+    <lastmod>2017-04-10T22:06:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/page/</loc>
+    <lastmod>2017-04-10T22:06:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/</loc>
+    <lastmod>2017-04-10T18:43:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

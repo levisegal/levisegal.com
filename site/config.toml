@@ -1,28 +1,59 @@
-baseurl = "https://example.com"
-languageCode = "en"
+baseurl = "http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
 title = "Levi Segal Blog"
-theme = "hemingway2"
-copyright = "&copy; <a href=\"https://github.com/levisegal\">Levi Segal</a> 2017"
-disqusShortname = "shortname"
-googleAnalytics = ""
-description = "Your personal description"
-keywords = ["keyword1", "keyword2"]
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
 
-[taxonomies]
-tag = "tags"
-category = "categories"
+[Params]
+  subtitle = "A place for science and coding - trust me"
+  logo = "img/avatar-icon.jpg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-[params]
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
 
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile"]
+[Author]
+  name = "Some Person"
+  email = "youremail@domain.com"
+  facebook = "username"
+  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "username"
+  twitter = "username"
+  reddit = "username"
+  linkedin = "username"
+  xing = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  soundcloud = "username"
+  spotify = "username"
+  bandcamp = "username"
+  itchio = "username"
 
-[[params.social]]
-url = "https://github.com/levisegal"
-fa_icon = "fa-github"
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
 
-
-[[params.social]]
-url = "https://twitter.com/LawrenceSegal"
-fa_icon = "fa-twitter"
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 3

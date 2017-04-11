@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Levi Segal Blog</title>
+    <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/index.xml</link>
+    <description>Recent content on Levi Segal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Mon, 10 Apr 2017 22:06:41 -0600</lastBuildDate>
+    <atom:link href="http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/page/about/</link>
+      <pubDate>Mon, 10 Apr 2017 22:06:41 -0600</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/page/about/</guid>
+      <description>&lt;p&gt;Hi there. I&amp;rsquo;m Levi. I&amp;rsquo;m a Full Stack developer from Los Angeles, California, loving my job at &lt;a href=&#34;https://www.clicktripz.com&#34;&gt;Clicktripz&lt;/a&gt;. I blog about Web development and Machine Learning. I love JavaScript and Python. I think about DevOps, Software Development Management, Automation, and scoring buckets 🏀.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second post</title>
+      <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/second_post/</link>
+      <pubDate>Mon, 10 Apr 2017 18:43:02 -0600</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/second_post/</guid>
+      <description>&lt;p&gt;Install Chokidar&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;Node.js fs.watch:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Doesn&amp;rsquo;t report filenames on OS X.&lt;/li&gt;
+&lt;li&gt;Doesn&amp;rsquo;t report events at all when using editors like Sublime on OS X.&lt;/li&gt;
+&lt;li&gt;Often reports events twice.&lt;/li&gt;
+&lt;li&gt;Emits most changes as rename.&lt;/li&gt;
+&lt;li&gt;Has a lot of other issues&lt;/li&gt;
+&lt;li&gt;Does not provide an easy way to recursively watch file trees.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Make build.js&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First thing you should do on AWS</title>
+      <link>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/test/</link>
+      <pubDate>Sun, 09 Apr 2017 21:09:20 -0600</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com/post/test/</guid>
+      <description>
+
+&lt;h2 id=&#34;don-t-create-an-access-id-for-your-root&#34;&gt;Don’t create an access ID for your root&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;testing markdown look&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ code?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Create an IAM user for yourself as well, give that user administrative privileges, and use that IAM user for all your work &lt;a href=&#34;http://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html&#34;&gt;docs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
