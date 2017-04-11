@@ -1,23 +1,21 @@
+# 
 baseurl = "http://levisegal-site-staging.s3-website-us-west-2.amazonaws.com"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
 title = "Levi Segal Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
 [Params]
   subtitle = "A place for science and coding - trust me"
   logo = "img/avatar-icon.jpg"
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "January 2th, 2006"
   commit = false
   rss = true
   comments = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -30,23 +28,11 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
+  name = "Levi Segal"
+  github = "levisegal"
+  twitter = "LawrenceSegal"
+  linkedin = "lawrence-segal-24b4b264"
+  spotify = "$_Lawrence"
 
 [[menu.main]]
     name = "Blog"
